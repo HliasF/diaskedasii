@@ -1,0 +1,17 @@
+
+````````````````````````````````````````````````````````````````````
+
+Admin Login:admin 
+
+url: your_project/login.php
+
+username: admin@gmail.com
+password: 12345678
+
+````````````````````````````````````````````````````````````````````
+
+To configure the mail for the contact form, 
+please update the "email address" & "password" 
+in sendmail.php file
+ 
+````````````````````````````````````````````````````````````````````
